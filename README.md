@@ -23,6 +23,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1757 | [Recyclable and Low Fat Products](./1757-recyclable-and-low-fat-products) | Easy | [View Solution](./1757-recyclable-and-low-fat-products) |
+| 0584 | [Find Customer Referee](./0584-find-customer-referee) | Easy | [View Solution](./0584-find-customer-referee) |
 
 ## 📈 Progress
 
