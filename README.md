@@ -33,3 +33,11 @@ More solutions will be added as I continue practicing.
 ---
 
 ⭐ This repository documents my SQL learning journey and interview preparation.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/samruddhi-kothane/LeetCode/tree/master/0584-find-customer-referee) |
+<!---LeetCode Topics End-->
