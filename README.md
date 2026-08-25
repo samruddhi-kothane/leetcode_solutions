@@ -41,4 +41,5 @@ More solutions will be added as I continue practicing.
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/samruddhi-kothane/LeetCode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/samruddhi-kothane/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
