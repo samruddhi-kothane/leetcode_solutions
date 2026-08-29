@@ -25,6 +25,8 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 1757 | [Recyclable and Low Fat Products](./1757-recyclable-and-low-fat-products) | Easy | [View Solution](./1757-recyclable-and-low-fat-products) |
 | 0584 | [Find Customer Referee](./0584-find-customer-referee) | Easy | [View Solution](./0584-find-customer-referee) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [View Solution](./0584-find-customer-referee/0584-find-customer-referee.sql) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [View Solution](./1148-article-views-i/1148-article-views-i.sql) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | [View Solution](./1683-invalid-tweets/1683-invalid-tweets.sql) |
 
 ## 📈 Progress
 
