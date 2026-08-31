@@ -30,6 +30,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 1068 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Easy | [View Solution](./1068-product-sales-analysis-iii/1068-product-sales-analysis-iii.sql) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | [View Solution](./1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) |
 | 0197 | [Rising Temperature](./0197-rising-temperature) | Easy | [View Solution](./0197-rising-temperature) |
+| 1661 | [Average Time of Process per Machine](./1661-average-time-of-process-per-machine) | Easy | [View Solution](./1661-average-time-of-process-per-machine) |
 
 
 ## 📈 Progress
