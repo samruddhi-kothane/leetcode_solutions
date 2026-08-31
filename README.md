@@ -46,6 +46,7 @@ More solutions will be added as I continue practicing.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/samruddhi-kothane/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/samruddhi-kothane/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/samruddhi-kothane/LeetCode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/samruddhi-kothane/LeetCode/tree/master/1068-product-sales-analysis-i) |
