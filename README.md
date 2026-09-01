@@ -31,6 +31,9 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | [View Solution](./1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) |
 | 0197 | [Rising Temperature](./0197-rising-temperature) | Easy | [View Solution](./0197-rising-temperature) |
 | 1661 | [Average Time of Process per Machine](./1661-average-time-of-process-per-machine) | Easy | [View Solution](./1661-average-time-of-process-per-machine) |
+| 570 | [Managers with at Least 5 Direct Reports](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 577 | [Employee Bonus](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1280 | [Students and Examinations](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
