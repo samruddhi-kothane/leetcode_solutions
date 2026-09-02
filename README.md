@@ -34,6 +34,9 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 570 | [Managers with at Least 5 Direct Reports](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 577 | [Employee Bonus](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1280 | [Students and Examinations](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 0620 | [Not Boring Movies](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1251 | [Average Selling Price](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1934 | [Confirmation Rate](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
