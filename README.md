@@ -41,6 +41,8 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 1633 | [Percentage of Users Attended a Contest](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1193 | [Monthly Transactions I](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1211 | [Queries Quality and Percentage](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 0550 | [Game Play Analysis IV](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1174 | [Immediate Food Delivery II](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
