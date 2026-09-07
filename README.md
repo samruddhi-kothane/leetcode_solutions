@@ -45,6 +45,8 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 1174 | [Immediate Food Delivery II](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1141 | [User Activity for the Past 30 Days I](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 0596 | [Classes With at Least 5 Students](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1070 | [Product Sales Analysis III](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
