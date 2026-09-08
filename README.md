@@ -47,6 +47,9 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 0596 | [Classes With at Least 5 Students](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1070 | [Product Sales Analysis III](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 0619 | [Biggest Single Number](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1045 | [Customers Who Bought All Products](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1729 | [Find Followers Count](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
