@@ -50,6 +50,8 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 0619 | [Biggest Single Number](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1045 | [Customers Who Bought All Products](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1729 | [Find Followers Count](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1731 | [The Number of Employees Which Report to Each Employee](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1789 | [Primary Department for Each Employee](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
