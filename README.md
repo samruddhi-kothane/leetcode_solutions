@@ -92,6 +92,7 @@ More solutions will be added as I continue practicing.
 | [1661-average-time-of-process-per-machine](https://github.com/samruddhi-kothane/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/samruddhi-kothane/LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/samruddhi-kothane/LeetCode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/samruddhi-kothane/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/samruddhi-kothane/LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/samruddhi-kothane/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
