@@ -111,6 +111,7 @@ More solutions will be added as I continue practicing.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/samruddhi-kothane/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/samruddhi-kothane/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/samruddhi-kothane/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/samruddhi-kothane/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/samruddhi-kothane/LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/samruddhi-kothane/LeetCode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/samruddhi-kothane/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
