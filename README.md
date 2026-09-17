@@ -62,6 +62,8 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 1341 | [Movie Rating](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 0602 | [Friend Requests II: Who Has the Most Friends](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1321 | [Restaurant Growth](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1527 | [Patients With a Condition](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1667 | [Fix Names in a Table](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
