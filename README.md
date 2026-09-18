@@ -82,6 +82,7 @@ More solutions will be added as I continue practicing.
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/samruddhi-kothane/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0196-delete-duplicate-emails](https://github.com/samruddhi-kothane/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/samruddhi-kothane/LeetCode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/samruddhi-kothane/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/samruddhi-kothane/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
