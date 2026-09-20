@@ -68,6 +68,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 0196 | [Delete Duplicate Emails](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1327 | [List the Products Ordered in a Period](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1484 | [Group Sold Products By The Date](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1517 | [Find Users With Valid E-Mails](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
