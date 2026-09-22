@@ -71,6 +71,8 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 1517 | [Find Users With Valid E-Mails](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1873 | [Calculate Special Bonus](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 1890 | [The Latest Login in 2020](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 1965 | [Employees With Missing Information](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 3421 | [Find Students Who Improved](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 
 ## 📈 Progress
