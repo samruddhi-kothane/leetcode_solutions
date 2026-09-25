@@ -75,6 +75,8 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3421 | [Find Students Who Improved](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 3436 | [Find Valid Emails](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 3475 | [DNA Pattern Recognition](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 3220 | [Odd and Even Transactions](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
+| 3570 | [Find Books with No Available Copies](YOUR_LEETCODE_LINK) | Easy | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 
 ## 📈 Progress
 
