@@ -143,4 +143,5 @@ More solutions will be added as I continue practicing.
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/samruddhi-kothane/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3421-find-students-who-improved](https://github.com/samruddhi-kothane/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/samruddhi-kothane/LeetCode/tree/master/3475-dna-pattern-recognition) |
+| [3570-find-books-with-no-available-copies](https://github.com/samruddhi-kothane/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
