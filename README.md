@@ -149,4 +149,5 @@ More solutions will be added as I continue practicing.
 | [3475-dna-pattern-recognition](https://github.com/samruddhi-kothane/LeetCode/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/samruddhi-kothane/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3570-find-books-with-no-available-copies](https://github.com/samruddhi-kothane/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
+| [3586-find-covid-recovery-patients](https://github.com/samruddhi-kothane/LeetCode/tree/master/3586-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
