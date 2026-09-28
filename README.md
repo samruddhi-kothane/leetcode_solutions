@@ -6,7 +6,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 
 - Strengthen SQL fundamentals
 - Practice real-world SQL problem solving
-- Prepare for Data Analyst technical interviews
+- Prepare for Data Analyst technical interviews 
 - Improve query writing and optimization skills
 
 ## 🛠️ Skills
