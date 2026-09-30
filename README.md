@@ -82,6 +82,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3564 | [Seasonal Sales Analysis](YOUR_LEETCODE_LINK) | Medium | [View Solution](YOUR_GITHUB_SOLUTION_LINK) |
 | 3521 | [Find Product Recommendation Pairs](https://leetcode.com/problems/find-product-recommendation-pairs/) | Medium | [View Solution](./3521-find-product-recommendation-pairs/) |
 | 0178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [View Solution](./0178-rank-scores/0178-rank-scores.sql) |
+| 3601 | [Find Drivers with Improved Fuel Efficiency](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | Medium | [View Solution](./3601-find-drivers-with-improved-fuel-efficiency/3601-find-drivers-with-improved-fuel-efficiency.sql) |
 
 
 
