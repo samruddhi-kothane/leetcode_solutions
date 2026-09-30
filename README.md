@@ -102,6 +102,7 @@ More solutions will be added as I continue practicing.
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/samruddhi-kothane/LeetCode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/samruddhi-kothane/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/samruddhi-kothane/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/samruddhi-kothane/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/samruddhi-kothane/LeetCode/tree/master/0196-delete-duplicate-emails) |
