@@ -85,6 +85,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3601 | [Find Drivers with Improved Fuel Efficiency](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | Medium | [View Solution](./3601-find-drivers-with-improved-fuel-efficiency/3601-find-drivers-with-improved-fuel-efficiency.sql) |
 | 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [View Solution](./0177-nth-highest-salary/0177-nth-highest-salary.sql) |
 | 3580 | [Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/) | Medium | [View Solution](./3580-find-consistently-improving-employees/3580-find-consistently-improving-employees.sql) |
+| 3611 | [Find Overbooked Employees](https://leetcode.com/problems/find-overbooked-employees/) | Medium | [View Solution](./3611-find-overbooked-employees/3611-find-overbooked-employees.sql) |
 
 ## 📈 Progress
 
