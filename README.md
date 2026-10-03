@@ -86,6 +86,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [View Solution](./0177-nth-highest-salary/0177-nth-highest-salary.sql) |
 | 3580 | [Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/) | Medium | [View Solution](./3580-find-consistently-improving-employees/3580-find-consistently-improving-employees.sql) |
 | 3611 | [Find Overbooked Employees](https://leetcode.com/problems/find-overbooked-employees/) | Medium | [View Solution](./3611-find-overbooked-employees/3611-find-overbooked-employees.sql) |
+| 3626 | [Find Stores with Inventory Imbalance](https://leetcode.com/problems/find-stores-with-inventory-imbalance/) | Medium | [View Solution](./3626-find-stores-with-inventory-imbalance/3626-find-stores-with-inventory-imbalance.sql) |
 
 ## 📈 Progress
 
