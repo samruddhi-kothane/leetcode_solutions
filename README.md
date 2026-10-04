@@ -87,6 +87,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3580 | [Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/) | Medium | [View Solution](./3580-find-consistently-improving-employees/3580-find-consistently-improving-employees.sql) |
 | 3611 | [Find Overbooked Employees](https://leetcode.com/problems/find-overbooked-employees/) | Medium | [View Solution](./3611-find-overbooked-employees/3611-find-overbooked-employees.sql) |
 | 3626 | [Find Stores with Inventory Imbalance](https://leetcode.com/problems/find-stores-with-inventory-imbalance/) | Medium | [View Solution](./3626-find-stores-with-inventory-imbalance/3626-find-stores-with-inventory-imbalance.sql) |
+| 3642 | [Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/) | Medium | [View Solution](./3642-find-books-with-polarized-opinions/3642-find-books-with-polarized-opinions.sql) |
 
 ## 📈 Progress
 
