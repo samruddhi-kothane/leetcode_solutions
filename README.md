@@ -90,6 +90,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3642 | [Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/) | Medium | [View Solution](./3642-find-books-with-polarized-opinions/3642-find-books-with-polarized-opinions.sql) |
 | 3657 | [Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | Medium | [View Solution](./3657-find-loyal-customers/3657-find-loyal-customers.sql) |
 | 3705 | [Find Golden Hour Customers](https://leetcode.com/problems/find-golden-hour-customers/) | Medium | [View Solution](./3705-find-golden-hour-customers/3705-find-golden-hour-customers.sql) |
+| 3793 | [Find Users with High Token Usage](https://leetcode.com/problems/find-users-with-high-token-usage/) | Medium | [View Solution](./3793-find-users-with-high-token-usage/3793-find-users-with-high-token-usage.sql) |
 
 ## 📈 Progress
 
