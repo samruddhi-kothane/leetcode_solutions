@@ -161,6 +161,7 @@ More solutions will be added as I continue practicing.
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/samruddhi-kothane/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/samruddhi-kothane/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/samruddhi-kothane/LeetCode/tree/master/3421-find-students-who-improved) |
+| [3451-find-invalid-ip-addresses](https://github.com/samruddhi-kothane/LeetCode/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/samruddhi-kothane/LeetCode/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/samruddhi-kothane/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/samruddhi-kothane/LeetCode/tree/master/3521-find-product-recommendation-pairs) |
