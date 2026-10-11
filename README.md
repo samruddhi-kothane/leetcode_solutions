@@ -93,6 +93,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3793 | [Find Users with High Token Usage](https://leetcode.com/problems/find-users-with-high-token-usage/) | Medium | [View Solution](./3793-find-users-with-high-token-usage/3793-find-users-with-high-token-usage.sql) |
 | 3451 | [Find Invalid IP Addresses](https://leetcode.com/problems/find-invalid-ip-addresses/) | Medium | [View Solution](./3451-find-invalid-ip-addresses/3451-find-invalid-ip-addresses.sql) |
 | 3808 | [Find Emotionally Consistent Users](https://leetcode.com/problems/find-emotionally-consistent-users/) | Medium | [View Solution](./3808-find-emotionally-consistent-users/3808-find-emotionally-consistent-users.sql) |
+| 3617 | [Find Students with Study Spiral Pattern](https://leetcode.com/problems/find-students-with-study-spiral-pattern/) | Medium | [View Solution](./3617-find-students-with-study-spiral-pattern/3617-find-students-with-study-spiral-pattern.sql) |
 
 ## 📈 Progress
 
