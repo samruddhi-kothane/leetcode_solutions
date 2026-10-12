@@ -94,6 +94,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3451 | [Find Invalid IP Addresses](https://leetcode.com/problems/find-invalid-ip-addresses/) | Medium | [View Solution](./3451-find-invalid-ip-addresses/3451-find-invalid-ip-addresses.sql) |
 | 3808 | [Find Emotionally Consistent Users](https://leetcode.com/problems/find-emotionally-consistent-users/) | Medium | [View Solution](./3808-find-emotionally-consistent-users/3808-find-emotionally-consistent-users.sql) |
 | 3617 | [Find Students with Study Spiral Pattern](https://leetcode.com/problems/find-students-with-study-spiral-pattern/) | Medium | [View Solution](./3617-find-students-with-study-spiral-pattern/3617-find-students-with-study-spiral-pattern.sql) |
+| 3764 | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs/) | Medium | [View Solution](./3764-most-common-course-pairs/3764-most-common-course-pairs.sql) |
 
 ## 📈 Progress
 
