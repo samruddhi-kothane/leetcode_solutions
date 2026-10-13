@@ -95,6 +95,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3808 | [Find Emotionally Consistent Users](https://leetcode.com/problems/find-emotionally-consistent-users/) | Medium | [View Solution](./3808-find-emotionally-consistent-users/3808-find-emotionally-consistent-users.sql) |
 | 3617 | [Find Students with Study Spiral Pattern](https://leetcode.com/problems/find-students-with-study-spiral-pattern/) | Medium | [View Solution](./3617-find-students-with-study-spiral-pattern/3617-find-students-with-study-spiral-pattern.sql) |
 | 3764 | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs/) | Medium | [View Solution](./3764-most-common-course-pairs/3764-most-common-course-pairs.sql) |
+| 3673 | [Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions/) | Medium | [View Solution](./3673-find-zombie-sessions/3673-find-zombie-sessions.sql) |
 
 ## 📈 Progress
 
