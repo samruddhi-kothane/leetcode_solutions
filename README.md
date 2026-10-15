@@ -97,6 +97,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3764 | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs/) | Medium | [View Solution](./3764-most-common-course-pairs/3764-most-common-course-pairs.sql) |
 | 3673 | [Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions/) | Medium | [View Solution](./3673-find-zombie-sessions/3673-find-zombie-sessions.sql) |
 | 3832 | [Find Users with Persistent Behavior Patterns](https://leetcode.com/problems/find-users-with-persistent-behavior-patterns/) | Medium | [View Solution](./3832-find-users-with-persistent-behavior-patterns/3832-find-users-with-persistent-behavior-patterns.sql) |
+| 3482 | [Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/) | Hard | [View Solution](./3482-analyze-organization-hierarchy/3482-analyze-organization-hierarchy.sql) |
 
 ## 📈 Progress
 
