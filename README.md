@@ -99,6 +99,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3832 | [Find Users with Persistent Behavior Patterns](https://leetcode.com/problems/find-users-with-persistent-behavior-patterns/) | Medium | [View Solution](./3832-find-users-with-persistent-behavior-patterns/3832-find-users-with-persistent-behavior-patterns.sql) |
 | 3482 | [Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/) | Hard | [View Solution](./3482-analyze-organization-hierarchy/3482-analyze-organization-hierarchy.sql) |
 | 3554 | [Find Category Recommendation Pairs](https://leetcode.com/problems/find-category-recommendation-pairs/) | Hard | [View Solution](./3554-find-category-recommendation-pairs/3554-find-category-recommendation-pairs.sql) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [View Solution](./0182-duplicate-emails/0182-duplicate-emails.sql) |
 
 ## 📈 Progress
 
