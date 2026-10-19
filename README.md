@@ -121,6 +121,7 @@ More solutions will be added as I continue practicing.
 | [0177-nth-highest-salary](https://github.com/samruddhi-kothane/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/samruddhi-kothane/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/samruddhi-kothane/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/samruddhi-kothane/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/samruddhi-kothane/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/samruddhi-kothane/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/samruddhi-kothane/LeetCode/tree/master/0197-rising-temperature) |
