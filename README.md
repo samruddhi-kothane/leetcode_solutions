@@ -100,6 +100,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 3482 | [Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/) | Hard | [View Solution](./3482-analyze-organization-hierarchy/3482-analyze-organization-hierarchy.sql) |
 | 3554 | [Find Category Recommendation Pairs](https://leetcode.com/problems/find-category-recommendation-pairs/) | Hard | [View Solution](./3554-find-category-recommendation-pairs/3554-find-category-recommendation-pairs.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [View Solution](./0182-duplicate-emails/0182-duplicate-emails.sql) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Medium | [View Solution](./0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql) |
 
 ## 📈 Progress
 
