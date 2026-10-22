@@ -128,6 +128,7 @@ More solutions will be added as I continue practicing.
 | [0182-duplicate-emails](https://github.com/samruddhi-kothane/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/samruddhi-kothane/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/samruddhi-kothane/LeetCode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/samruddhi-kothane/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/samruddhi-kothane/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/samruddhi-kothane/LeetCode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/samruddhi-kothane/LeetCode/tree/master/0550-game-play-analysis-iv) |
