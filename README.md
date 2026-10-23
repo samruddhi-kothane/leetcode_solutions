@@ -104,6 +104,7 @@ A collection of my **LeetCode SQL solutions** for improving my SQL skills and pr
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [View Solution](./0183-customers-who-never-order/0183-customers-who-never-order.sql) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Hard | [View Solution](./0184-department-highest-salary/0184-department-highest-salary.sql) |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | [View Solution](./0185-department-top-three-salaries/0185-department-top-three-salaries.sql) |
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [View Solution](./0262-trips-and-users/0262-trips-and-users.sql) |
 
 ## 📈 Progress
 
